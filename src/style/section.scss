@@ -1,0 +1,56 @@
+@import 'ColorPalette';
+
+.section {
+    padding-top: 15rem;
+
+    >div {
+        /* > :- to target the direct child div of section */
+        margin: auto;
+        max-width: 48rem;
+        height: 120vh;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+        box-sizing: border-box;
+
+    }
+
+    h3 {
+        width: 80%;
+        /* font-size: 54px;
+         font-weight: 300;
+         font-family: $heading;
+         or below short hand */
+        font: 300 54px $heading;
+    }
+
+    p {
+        // font-size: 19px;
+        // font-family: $text;
+        // line-height: 1.9;
+        font: 19px/1.9 $text;
+    }
+
+    button {
+        // font-size: 14px;
+        // font-family: $text;
+        // font-weight: 600;
+        font: 600 14px $text;
+        padding: 0.9rem 1.25rem;
+        border: none;
+        border-radius: 7px;
+        transform-origin: bottom;
+        transition: transform .5s;
+        letter-spacing: 2px;
+
+        &:hover {
+            transform: skewX(-10deg);
+        }
+    }
+
+
+
+}
+
