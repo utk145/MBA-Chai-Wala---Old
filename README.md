@@ -41,7 +41,7 @@ Your app is ready to be deployed!
 
 Clone and setup the repository to your local machine using the following command:
 
-    - git clone https://github.com/utk145/
+    - git clone https://github.com/utk145/MBA-Chai-Wala---Old
     - npm install --legacy-peer-deps
 
 
