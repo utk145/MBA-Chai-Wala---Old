@@ -5,7 +5,8 @@ This repository contains the frontend code for MBA-Chaiwala Website.
 
 ## Credits
 Special thanks to the creators of [MBA CHAIWALA](https://www.mbachaiwala.com/) for inspiring this project.
-
+## Disclaimer
+I donot own nor am I affiliated with [MBA CHAIWALA](https://www.mbachaiwala.com/) or its associates and this is just a frontend clone for my Web Development process. 
 ## Tech Stack
 
 - React
