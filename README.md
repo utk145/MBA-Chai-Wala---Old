@@ -70,7 +70,7 @@ Clone and setup the repository to your local machine using the following command
 
 ## Live Preview
 
-[Do check it out](https://utproj-mbachaiwala.netlify.app/)
+[Do check it out](https://twitter.com/utks1455/status/1641386392230977537)
 
 
 
