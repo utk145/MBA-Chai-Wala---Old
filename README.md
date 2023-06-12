@@ -68,9 +68,9 @@ Clone and setup the repository to your local machine using the following command
 ```
 
 
-## Live Preview
 
-[Do check it out](https://twitter.com/utks1455/status/1641386392230977537)
+
+[Do check out the post](https://twitter.com/utks1455/status/1641386392230977537)
 
 
 
